@@ -206,4 +206,11 @@ Thats it! You've completed the vertical functionality of our prototype.
   <img src="https://github.com/user-attachments/assets/a55258a9-dab6-4c33-a583-4be2a01da9df" width="200" />
 </p>
 
+### Mobile Keyboard Shortcuts
+- Code editing is improved with common keyboard buttons easily accessible
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d9edd1eb-b1b1-4e13-9ea3-62aaa78e1255" width="200" />
+</p>
+
 
