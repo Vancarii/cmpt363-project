@@ -1,6 +1,6 @@
 # ChatGPT Mobile GitHub Integration 📱
 
-🔗 [Prototype Link](https://www.figma.com/proto/cRGscAmsG8XQDdXQ2cviIq/CMPT363-MFP?node-id=1-280&t=6DPeMHl4LFd56fAk-1 )
+🔗 [Prototype Link](https://www.figma.com/proto/cRGscAmsG8XQDdXQ2cviIq/CMPT363-MFP?node-id=1-280&t=i4EZvgymrQyCyF6p-1&scaling=scale-down&content-scaling=fixed )
 
 ## Introduction
 This guide provides step-by-step instructions for setting up and using the ChatGPT mobile code editing prototype, specifically designed for seamless GitHub integration and mobile-friendly code editing and review. The main vertical task flow begins with the user connecting their ChatGPT and GitHub accounts and continue editing code based on their repository codebase, eventually pushing their newly edited changes.
