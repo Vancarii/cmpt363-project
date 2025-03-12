@@ -50,7 +50,7 @@ This guide provides step-by-step instructions for setting up and using the ChatG
   <img src="https://github.com/user-attachments/assets/dd638e62-ddfe-44f1-8a1f-27780e3a9457" width="150" />
 </p>
 
-4. Click the green **Continue** button, or choose your preferred login method by selecting one of the following options:
+3. Click the green **Continue** button, or choose your preferred login method by selecting one of the following options:
    - **Continue with Google**
    - **Continue with Microsoft Account**
    - **Continue with Apple**
@@ -71,25 +71,25 @@ This guide provides step-by-step instructions for setting up and using the ChatG
   <img src="https://github.com/user-attachments/assets/d8b4a55a-12d6-4c6c-91ee-63817ca618be" width="150" />
 </p>
 
-3. Click **Integrations** 
+2. Click **Integrations** 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f975ccd2-2279-44c0-abf7-65964c188d28" width="150" />
 </p>
    
-5. Tap the **GitHub** button to access the GitHub login interface
+3. Tap the **GitHub** button to access the GitHub login interface
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/11b70000-15ba-4a5c-a431-3de19ce42628" width="150" />
 </p>
 
-7. GitHub credentials are prefilled, click the **Sign In** button
+4. GitHub credentials are prefilled, click the **Sign In** button
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b045fafd-d705-45a6-a854-57604b994a3a" width="150" />
 </p>
 
-8. Navigate back using the back button at the top left corner of the screen
+5. Navigate back using the back button at the top left corner of the screen
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b291221f-4f3e-47d9-883b-9433f933a1d3" width="150" />
@@ -106,7 +106,7 @@ This guide provides step-by-step instructions for setting up and using the ChatG
   <img src="https://github.com/user-attachments/assets/ce9d8121-2fdc-4155-8a65-e4372f629dfc" width="150" />
 </p>
 
-3. Select the first repository from the displayed list, **Repository 1**
+2. Select the first repository from the displayed list, **Repository 1**
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4ff9789c-5175-483b-96f6-3fe8b6f987db" width="150" />
@@ -122,13 +122,13 @@ This guide provides step-by-step instructions for setting up and using the ChatG
   <img src="https://github.com/user-attachments/assets/eaca4c91-d7b3-4b72-a65a-408031b0e7e7" width="150" />
 </p>
 
-4. Tap **Show Full Code** to open the code editing page
+2. Tap **Show Full Code** to open the code editing page
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/967771e7-e660-4d75-988e-8692944f8b5a" width="150" />
 </p>
 
-6. Click **Accept Changes** above the code suggestions highlighted in blue
+3. Click **Accept Changes** above the code suggestions highlighted in blue
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f040cff2-c654-420d-b992-f7f9ac59ad11" width="150" />
@@ -145,25 +145,25 @@ This guide provides step-by-step instructions for setting up and using the ChatG
   <img src="https://github.com/user-attachments/assets/a318d52f-f3c6-4c1b-becf-7b1b523e6d7d" width="150" />
 </p>
 
-3. Select **Push to Main** from the dropdown menu
+2. Select **Push to Main** from the dropdown menu
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b0447861-5401-4fc2-beea-0d2fa27328b1" width="150" />
 </p>
    
-6. After reviewing changes, tap the **Commit Changes** button at the bottom of the page
+3. After reviewing changes, tap the **Commit Changes** button at the bottom of the page
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b17584a8-8957-4d99-ac56-e24d44f85bf0" width="150" />
 </p>
 
-8. Click **Commit** in the popup dialog
+4. Click **Commit** in the popup dialog
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f1c62376-2917-4ca2-8b72-bc6b2aa05bcd" width="150" />
 </p>
 
-10. Your changes will be committed to your repository. Tap **Back to Chat** to return to the chat screen and complete the workflow
+5. Your changes will be committed to your repository. Tap **Back to Chat** to return to the chat screen and complete the workflow
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4830429a-3243-490f-ba76-b5381850cc22" width="150" />
